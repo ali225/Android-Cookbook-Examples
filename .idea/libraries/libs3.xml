@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="libs3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SimpleJumper/libs/gdx-freetype-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SimpleJumper/libs/tween-engine-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SimpleJumper/libs/flixel-core-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SimpleJumper/libs/gdx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SimpleJumper/libs/gdx-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SimpleJumper/libs/tween-engine-api-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SimpleJumper/libs/gdx-freetype.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SimpleJumper/libs/flixel-core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="libs1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SimplePool/libs/andengine.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SimplePool/libs/andenginemultiplayerextension.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SimplePool/libs/andenginephysicsbox2dextension.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SimplePool/libs/andenginesvgtextureregionextension.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SimplePool/libs/andenginemultitouchextension.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SimplePool/libs/andenginelivewallpaperextension.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SimplePool/libs/andenginemodplayerextension.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SimplePool/libs/andengineaugmentedrealityextension.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

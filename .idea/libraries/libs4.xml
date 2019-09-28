@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="libs4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SimpleJumper.android/libs/flixel-android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SimpleJumper.android/libs/gdx-backend-android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SimpleJumper.android/libs/flixel-android-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SimpleJumper.android/libs/gdx-backend-android-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

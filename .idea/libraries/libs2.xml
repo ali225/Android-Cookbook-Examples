@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="libs2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SimpleJumper.desktop/libs/gdx-backend-lwjgl-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SimpleJumper.desktop/libs/gdx-freetype-natives.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SimpleJumper.desktop/libs/flixel-desktop-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SimpleJumper.desktop/libs/gdx-backend-lwjgl-natives.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SimpleJumper.desktop/libs/gdx-backend-lwjgl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SimpleJumper.desktop/libs/gdx-natives.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SimpleJumper.desktop/libs/flixel-desktop.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

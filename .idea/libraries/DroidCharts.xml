@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DroidCharts">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/OrientationChanges/libs/DroidCharts.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
